@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ldk66-netizen/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ldk66-netizen/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ldk66-netizen/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/ldk66-netizen/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/ldk66-netizen/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ldk66-netizen/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ldk66-netizen/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/ldk66-netizen/leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ldk66-netizen/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/ldk66-netizen/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
