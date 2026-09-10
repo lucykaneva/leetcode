@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ldk66-netizen/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ldk66-netizen/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ldk66-netizen/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0289-game-of-life](https://github.com/ldk66-netizen/leetcode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/ldk66-netizen/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ldk66-netizen/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ldk66-netizen/leetcode/tree/master/0048-rotate-image) |
+| [0289-game-of-life](https://github.com/ldk66-netizen/leetcode/tree/master/0289-game-of-life) |
 ## Union-Find
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ldk66-netizen/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/ldk66-netizen/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/ldk66-netizen/leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
