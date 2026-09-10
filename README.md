@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ldk66-netizen/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ldk66-netizen/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/ldk66-netizen/leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/ldk66-netizen/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ldk66-netizen/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ldk66-netizen/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ldk66-netizen/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ldk66-netizen/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ldk66-netizen/leetcode/tree/master/0048-rotate-image) |
 ## Union-Find
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ldk66-netizen/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ldk66-netizen/leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
