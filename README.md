@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ldk66-netizen/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ldk66-netizen/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ldk66-netizen/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ldk66-netizen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ldk66-netizen/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/ldk66-netizen/leetcode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/ldk66-netizen/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ldk66-netizen/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ldk66-netizen/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ldk66-netizen/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ldk66-netizen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ldk66-netizen/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ldk66-netizen/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/ldk66-netizen/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ldk66-netizen/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Simulation
 |  |
 | ------- |
