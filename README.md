@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ldk66-netizen/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ldk66-netizen/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/ldk66-netizen/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ldk66-netizen/leetcode/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ldk66-netizen/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ldk66-netizen/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
