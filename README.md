@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ldk66-netizen/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ldk66-netizen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ldk66-netizen/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ldk66-netizen/leetcode/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ldk66-netizen/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ldk66-netizen/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ldk66-netizen/leetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/ldk66-netizen/leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ldk66-netizen/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ldk66-netizen/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ldk66-netizen/leetcode/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
