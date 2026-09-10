@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ldk66-netizen/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ldk66-netizen/leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/ldk66-netizen/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ldk66-netizen/leetcode/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ldk66-netizen/leetcode/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/ldk66-netizen/leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
