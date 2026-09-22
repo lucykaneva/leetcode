@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ldk66-netizen/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ldk66-netizen/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ldk66-netizen/leetcode/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/ldk66-netizen/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ldk66-netizen/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ldk66-netizen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ldk66-netizen/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ldk66-netizen/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ldk66-netizen/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ldk66-netizen/leetcode/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/ldk66-netizen/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/ldk66-netizen/leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ldk66-netizen/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/ldk66-netizen/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ldk66-netizen/leetcode/tree/master/0207-course-schedule) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ldk66-netizen/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
