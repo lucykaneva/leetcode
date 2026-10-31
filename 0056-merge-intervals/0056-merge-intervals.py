@@ -7,32 +7,14 @@ class Solution(object):
         if len(intervals)==1:
             return intervals
         intervals.sort(key=lambda x: x[0])
-        i=0
-        output = []
-        lastIndexOutput = -1
+        i = 1
+        output = [intervals[0]]
         while i < len(intervals):
-            lastIndexOutput = len(output)-1
-            if lastIndexOutput==-1 and i+1<len(intervals):
-                intervOut = self.overlap(intervals[i], intervals[i+1])
-            else:
-                intervOut = self.overlap(intervals[i], output[lastIndexOutput])
-            if intervOut and lastIndexOutput==-1:
-                output.append(intervOut)
-                i+=2
-            elif intervOut:
-                output[lastIndexOutput] = intervOut
-                i+=1
+            if output[-1][1]>=intervals[i][0]:
+                new_list = [output[-1][0],max(intervals[i][1],output[-1][1])]
+                output.pop()
+                output.append(new_list)
             else:
                 output.append(intervals[i])
-                i+=1
+            i+=1
         return output
-    def overlap(self,arr1, arr2):
-        if arr1[0]>=arr2[0] and arr1[1]<=arr2[1]:
-            return [arr2[0],arr2[1]]
-        if arr2[0]>=arr1[0] and arr2[1]<=arr1[1]:
-            return [arr1[0],arr1[1]]
-        if arr1[1] <= arr2[1] and arr1[1]>=arr2[0]:
-            return [arr1[0], arr2[1]]
-        if arr2[1] <= arr1[1] and arr2[1]>=arr1[0]:
-            return [arr2[0], arr1[1]]
-        return None         
