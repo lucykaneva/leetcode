@@ -21,8 +21,6 @@ class Solution(object):
         else:
             return nums
         for i in range (0,len(nums)-2):
-            print(left_right[i])
-            print(right_left[len(nums)-3-i])
             results.append(left_right[i]*right_left[len(nums)-3-i])
         results.append(left_right[-2])
         return results
