@@ -14,9 +14,9 @@ class Solution(object):
             if left == 0:
                 memo[left]=1
                 return 1
-            memo[left-1]=recurse_stairs(left-1,memo)
-            memo[left-2]=recurse_stairs(left-2,memo)
-            return memo[left-1]+memo[left-2]
+            result = recurse_stairs(left - 1, memo) + recurse_stairs(left - 2, memo)
+            memo[left] = result
+            return result
         return recurse_stairs(n,memo)
         
         
