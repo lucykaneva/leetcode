@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ldk66-netizen/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ldk66-netizen/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ldk66-netizen/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ldk66-netizen/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/ldk66-netizen/leetcode/tree/master/0542-01-matrix) |
 ## String
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ldk66-netizen/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ldk66-netizen/leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/ldk66-netizen/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ldk66-netizen/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ldk66-netizen/leetcode/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ldk66-netizen/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ldk66-netizen/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ldk66-netizen/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
