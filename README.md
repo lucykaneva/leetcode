@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ldk66-netizen/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/ldk66-netizen/leetcode/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/ldk66-netizen/leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/ldk66-netizen/leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/ldk66-netizen/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ldk66-netizen/leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ldk66-netizen/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/ldk66-netizen/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/ldk66-netizen/leetcode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ldk66-netizen/leetcode/tree/master/0322-coin-change) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ldk66-netizen/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
