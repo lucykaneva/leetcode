@@ -1,49 +1,33 @@
-class Trie(object):
+class Trie:
 
     def __init__(self):
-        self.root = {}
-
-    def insert(self, word):
-        """
-        :type word: str
-        :rtype: None
-        """
-        node = self.root
-        for ch in word:
-            if ch not in node:
-                node[ch] = {}
-            node = node[ch]
-        node[None] = None
+        self.children = {}
+        self.is_word = False
         
 
-    def search(self, word):
-        """
-        :type word: str
-        :rtype: bool
-        """
-        curr_node = self.root
+    def insert(self, word: str) -> None:
+        curr_trie = self
         for char in word:
-            if char not in curr_node:
-                return False
-            else:
-                curr_node = curr_node[char]
-        if None in curr_node:
-            return True
-        return False
+            if char not in curr_trie.children:
+                curr_trie.children[char] = Trie()
+            curr_trie = curr_trie.children[char]
+        curr_trie.is_word = True
 
-    def startsWith(self, prefix):
-        """
-        :type prefix: str
-        :rtype: bool
-        """
-        curr_node = self.root
-        for char in prefix:
-            if char not in curr_node:
+    def search(self, word: str) -> bool:
+        curr_trie = self
+        for char in word:
+            if char not in curr_trie.children:
                 return False
-            else:
-                curr_node = curr_node[char]
+            curr_trie = curr_trie.children[char]
+        return curr_trie.is_word
+
+    def startsWith(self, prefix: str) -> bool:
+        curr_trie = self
+        for char in prefix:
+            if char not in curr_trie.children:
+                return False
+            curr_trie = curr_trie.children[char]
         return True
-        
 
 
 # Your Trie object will be instantiated and called as such:
